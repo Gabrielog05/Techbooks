@@ -1,2 +1,2 @@
 # Techbooks
-Projeto feito durante o curso de responsividade da Alura.
+Projeto sobre responsividade e desenvolvimento de uma landing page com apoio da Alura
